@@ -1,5 +1,9 @@
 ## Hi there, I'm Viacheslav 👋
 
+I like Java and Kotlin. Interested in DevOps and things like observability, monitoring, containerization and many more.
+Also learning security.
+
+- 🔭 I’m currently working on clusterizer
 <!--
 **Hexacosidedroid/Hexacosidedroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
